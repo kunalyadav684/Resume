@@ -1,2 +1,2 @@
 # resume
-Find My latest resume on https://kunalyadav684.github.io/resume/ 
+Find My latest resume on https://kunalyadav684.github.io/Resume/ 
